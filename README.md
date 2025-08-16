@@ -35,5 +35,5 @@ Here are a few highlighted works (full list inside folders):
 ---
 
 📬 **Contact Me**  
-- LinkedIn: [Your LinkedIn Profile]  
-- Email: [Your Email]  
+- LinkedIn: https://www.linkedin.com/in/muhammad-adnan-740336293/
+- Email: adnandanish0404@gmail.com
