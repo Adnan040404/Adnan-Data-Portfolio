@@ -1,39 +1,58 @@
-# 📊 Adnan's Data Portfolio
+# 📊 Adnan's Data Portfolio  
 
 Welcome to my Data Portfolio 👋  
-This repository organizes all of my professional data projects across **SQL, Python, Data Engineering, Machine Learning, and Dashboards**.  
+This repository showcases my **SQL, Python (Data Analysis), Data Engineering, and Machine Learning** projects.  
+Each project demonstrates my ability to **analyze data, build pipelines, and apply ML techniques** to solve real-world problems.  
 
 ---
 
-## 🔗 Quick Navigation
+## 📂 Portfolio Structure  
 
-- 🗄️ [SQL Projects](./SQL_Projects)
-- 🐍 [Python Data Analysis](./Python_Data_Analysis)
-- ⚙️ [Data Engineering](./Data_Engineering)
-- 🤖 [Machine Learning](./Machine_Learning)
-- 📊 [Dashboards](./Dashboards)
-
----
-
-## 🛠️ Skills & Tools
-- **Languages:** SQL, Python (Pandas, NumPy, Scikit-learn, TensorFlow)
-- **Databases:** MySQL, PostgreSQL, SQLite
-- **Visualization:** Power BI, Tableau, Excel
-- **Big Data / DE Tools:** PySpark, Databricks (in progress), APIs
-- **ML/AI:** Regression, Classification, Recommendation Systems, Deep Learning
+- 🗂 **SQL-Projects** → Query optimization, joins, advanced analytics, dashboards  
+- 🗂 **Python-Data-Analysis** → Pandas, NumPy, Matplotlib, Seaborn, Flask dashboards  
+- 🗂 **Data-Engineering** → PySpark, Databricks, Delta Lake, ETL pipelines, Kafka  
+- 🗂 **Machine-Learning** → Classification, Regression, Deep Learning, NLP  
 
 ---
 
-## 🌟 Highlight Projects
-Here are a few highlighted works (full list inside folders):
+## 🚀 Featured Projects  
 
-- [Credit Card Fraud Detection (ML)](https://github.com/Adnan040404/Credit-Card-Fraud-Detection)  
-- [Sales Insights with SQL + Tableau](https://github.com/Adnan040404/Sale-Insights-Data-Analysis-using-SQL-and-Tableau)  
-- [Bank Analytics Dashboard (Excel)](https://github.com/Adnan040404/Bank_Analytics_Dashboard)  
-- [Diwali Sales EDA (Python)](https://github.com/Adnan040404/Diwali-Sales-Analysis)  
+### 🔹 SQL Projects  
+- [Sales Insights (SQL + Tableau)](https://github.com/Adnan040404/Sale-Insights-Data-Analysis-using-SQL-and-Tableau)  
+- [Bank Analytics Dashboard](https://github.com/Adnan040404/Bank_Analytics_Dashboard)  
+
+### 🔹 Python Projects  
+- [Diwali Sales Analysis](https://github.com/Adnan040404/Diwali-Sales-Analysis)  
+- [Amazon Sales Analysis](https://github.com/Adnan040404/Amazon-Sales-Analysis)  
+- [Hotel Booking Analysis](https://github.com/Adnan040404/Hotel-Booking-Analysis)  
+
+### 🔹 Data Engineering Projects  
+- [YouTube Analytics Pipeline (API + PySpark + Delta Lake)](https://github.com/Adnan040404/YouTube-Video-Analytics-Pipeline)  
+- [Bank Transactions Fraud Detection (PySpark + ML)](https://github.com/Adnan040404/Bank-Fraud-Detection)  
+
+### 🔹 Machine Learning Projects  
+- [Credit Card Fraud Detection](https://github.com/Adnan040404/Credit-Card-Fraud-Detection)  
+- [Heart Disease Prediction](https://github.com/Adnan040404/Heart-Disease-Prediction)  
+- [Potato Disease Detection (CNN)](https://github.com/Adnan040404/Potato-Disease-Detection)  
 
 ---
 
-📬 **Contact Me**  
-- LinkedIn: https://www.linkedin.com/in/muhammad-adnan-740336293/
-- Email: adnandanish0404@gmail.com
+## 🛠️ Tech Stack  
+
+- **Programming:** Python, SQL  
+- **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, PySpark  
+- **Databases:** MySQL, PostgreSQL, Delta Lake  
+- **Tools:** Databricks, Tableau, Power BI, Excel  
+- **Big Data & Streaming:** Apache Spark, Apache Kafka, Hadoop  
+
+---
+
+## 📬 Connect With Me  
+
+- 💼 [LinkedIn] ( https://www.linkedin.com/in/muhammad-adnan-740336293/ )
+- 📂 [GitHub](https://github.com/Adnan040404)  
+- ✉️ Email: adnandanish0404@gmail.com  
+
+---
+
+⭐ If you like my work, don’t forget to **star this repo**!  
