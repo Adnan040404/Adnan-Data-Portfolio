@@ -10,3 +10,5 @@ Interactive dashboards created in Excel, Tableau, and Power BI.
 6. [Student Performance Dashboard](https://github.com/Adnan040404/Student_Performace_Dash)
 7. [Power BI Dashboard](https://github.com/Adnan040404/power_bi_dashboard)
 8. [Power BI Dashboards](https://github.com/Adnan040404/power_bi_dash)
+9. [Customer Dashboard (Excel)](https://github.com/Adnan040404/Adnan-Data-Portfolio/tree/main/Dashboards/Excel-Dashboarding/CUSTOMER)
+10. [Healthcare Dashboard (Power BI)](https://github.com/Adnan040404/Adnan-Data-Portfolio/tree/main/Dashboards/Healthcare-Dashboard-PowerBI)
