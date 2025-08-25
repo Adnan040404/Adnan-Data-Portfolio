@@ -9,4 +9,4 @@ Interactive dashboards created in Excel, Tableau, and Power BI.
 5. [Sales Insights Dashboard (SQL + Tableau)](https://github.com/Adnan040404/Sale-Insights-Data-Analysis-using-SQL-and-Tableau)
 6. [Student Performance Dashboard](https://github.com/Adnan040404/Student_Performace_Dash)
 7. [Power BI Dashboard](https://github.com/Adnan040404/power_bi_dashboard)
-
+8. [Power BI Dashboards](https://github.com/Adnan040404/power_bi_dash)
