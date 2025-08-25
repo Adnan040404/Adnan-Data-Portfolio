@@ -1,1 +1,49 @@
+🌟 FrontEnd Development Projects
 
+Welcome to my FrontEnd Development Projects portfolio! 🎨💻
+This folder contains various projects built using HTML, CSS, and JavaScript, showcasing UI design, interactivity, and web development fundamentals.
+
+🚀 Projects Included
+Project	Description	Status
+🌐 Web Folder	A collection of small web projects	✅ Completed
+📝 Todo List	Simple task manager application	✅ Completed
+🎬 Movie App	Displays movies dynamically using APIs	✅ Completed
+💧 Drink Water Tracker	Tracks daily water intake	✅ Completed
+⌨️ Typing Game	Test your typing speed and accuracy	✅ Completed
+📊 Progress Steps	Multi-step progress UI	✅ Completed
+❤️ Heart Animation	Fun CSS animation project	✅ Completed
+⚡ How to Use
+
+Clone the repository:
+
+git clone https://github.com/Adnan040404/Adnan-Data-Portfolio.git
+
+
+Navigate to the FrontEnd Development folder:
+
+cd Adnan-Data-Portfolio/FrontEnd\ Development
+
+
+Open any project folder in your browser.
+
+Explore, modify, and learn! 💡
+
+🛠 Technologies Used
+
+HTML5 🟢
+
+CSS3 🎨
+
+JavaScript ⚡
+
+✨ Features / “Animations”
+
+Emojis 🎉 and badges 🏷 make projects more visual
+
+Interactive projects demonstrate real frontend effects
+
+Fun CSS animations in some projects ❤️
+
+🤝 Contributing
+
+Feel free to fork this repository, explore the projects, and create your own variations. Pull requests are welcome! 🔧
