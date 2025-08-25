@@ -10,5 +10,5 @@ End-to-end ML projects using Scikit-Learn, Regression, Classification, and Neura
 7. [House Price Prediction](https://github.com/Adnan040404/House-Price-Prediction)
 8. [Titanic Survival Prediction](https://github.com/Adnan040404/titanic-survival)
 9. [Movie Recommendation System](https://github.com/Adnan040404/Movie_Recommender.git)
-10. [AI Chatbot Project](https://github.com/Adnan040404/AI_Chatbot_Project)
+10. [AI Chatbot Project](https://github.com/Adnan040404/chatbot_using_ML.git)
 
