@@ -11,4 +11,5 @@ End-to-end ML projects using Scikit-Learn, Regression, Classification, and Neura
 8. [Titanic Survival Prediction](https://github.com/Adnan040404/titanic-survival)
 9. [Movie Recommendation System](https://github.com/Adnan040404/Movie_Recommender.git)
 10. [AI Chatbot Project](https://github.com/Adnan040404/chatbot_using_ML.git)
+11. [Wine Quality Checker](https://github.com/Adnan040404/Quality_wine.git)
 
