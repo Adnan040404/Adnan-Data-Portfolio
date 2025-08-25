@@ -10,4 +10,5 @@ Exploratory Data Analysis (EDA) and insights using Python (Pandas, NumPy, Matplo
 6. [Customer Churn Analysis](https://github.com/Adnan040404/customer_churn_Analysis)
 7. [Weather API Data ETL & Analysis](https://github.com/Adnan040404/weather_api_data_ETL)
 8. [COVID Data Analysis](https://github.com/Adnan040404/covid_analysis)
-
+9. [IMDb Movie Analysis](https://github.com/Adnan040404/Adnan-Data-Portfolio/tree/main/Python_Data_Analysis/IMDb-Movie-Analysis)
+10. [Water Quality Analysis](https://github.com/Adnan040404/Adnan-Data-Portfolio/tree/main/Python_Data_Analysis/Water%20Quality%20Analysis)
