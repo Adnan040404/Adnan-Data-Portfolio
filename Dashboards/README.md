@@ -2,7 +2,6 @@
 
 Interactive dashboards in **Excel**, **Power BI**, and **Tableau**.  
 
-![Dashboard Animation](https://media.giphy.com/media/3ohhwytHcusSCXXOUg/giphy.gif)
 
 ---
 
