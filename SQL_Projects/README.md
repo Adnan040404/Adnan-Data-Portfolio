@@ -7,7 +7,6 @@ SQL-based projects with analytics & reporting.
 ---
 
 <details>
-<summary>Click to Expand SQL Projects 🔽</summary>
 
 | # | Project | Tech | Link | Description |
 |---|---------|------|------|-------------|
