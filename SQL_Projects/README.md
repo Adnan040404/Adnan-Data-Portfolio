@@ -6,7 +6,7 @@ SQL-based projects with analytics & reporting.
 
 ---
 
-<details>
+
 
 | # | Project | Tech | Link | Description |
 |---|---------|------|------|-------------|
@@ -19,4 +19,4 @@ SQL-based projects with analytics & reporting.
 | 7 | Excel Customer Insights Dashboard | Excel + SQL | [🔗 Link](https://github.com/Adnan040404/excel-customer-insights-dashboard) | Customer insights dashboard. |
 | 8 | Hospital Management SQL Project | SQL + Power BI | [🔗 Link](https://github.com/Adnan040404/hospital-management-sql-project) | Hospital & patient analytics. |
 
-</details>
+
