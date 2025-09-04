@@ -15,7 +15,7 @@ ETL pipelines, API ingestion, PySpark & Databricks projects.
 
 ---
 
-<details>
+
 <summary>Click to Expand Data Engineering Projects 🔽</summary>
 
 | # | Project | Tech | Link | Description |
@@ -29,4 +29,4 @@ ETL pipelines, API ingestion, PySpark & Databricks projects.
 | 7 | Databricks Spark + Unity Catalog | PySpark + Databricks | [🔗 Link](https://github.com/Adnan040404/Databricks-End-to-End-Spark-Project-with-Unity-Catalog) | Advanced project integrating Unity Catalog. |
 | 8 | PySpark Topics | PySpark | [🔗 Link](https://github.com/Adnan040404/Adnan-Data-Portfolio/tree/main/Data_Engineering/pyspark-topics) | Core & advanced PySpark implementations. |
 
-</details>
+
