@@ -11,9 +11,15 @@ Interactive dashboards in **Excel**, **Power BI**, and **Tableau**.
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau)
 
 ---
+## 🎨 Dashboard Categories
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="120" title="Excel Dashboards"/>
+  <img src="https://media.giphy.com/media/3oEjHP8ELRNNlnlLGM/giphy.gif" width="120" title="Power BI Dashboards"/>
+  <img src="https://media.giphy.com/media/l0Exk8EUzSLsrErEQ/giphy.gif" width="120" title="Tableau Dashboards"/>
+</p>
 
 
-<summary>Click to Expand Dashboards 🔽</summary>
 
 | # | Project | Tech | Link | Description |
 |---|---------|------|------|-------------|
