@@ -28,5 +28,5 @@ https://github.com/Adnan040404/bike-shop-sql-powerbi-analysis
 10. Excel Customer Insights Dashboard
 https://github.com/Adnan040404/excel-customer-insights-dashboard
 
-Hospital Management SQL Project
+11. Hospital Management SQL Project
 https://github.com/Adnan040404/hospital-management-sql-project
