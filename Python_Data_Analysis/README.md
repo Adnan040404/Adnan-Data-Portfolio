@@ -6,7 +6,7 @@ EDA, visualization, and insights using **Python, Pandas, Matplotlib, Seaborn**.
 
 ---
 
-<details>
+
 <summary>Click to Expand Python EDA 🔽</summary>
 
 | # | Project | Tech | Link | Description |
@@ -22,4 +22,3 @@ EDA, visualization, and insights using **Python, Pandas, Matplotlib, Seaborn**.
 | 9 | Weather API Analysis | Python | [🔗 Link](https://github.com/Adnan040404/weather_api_data_ETL) | Analyze weather API data. |
 | 10 | Water Quality Analysis | Python | [🔗 Link](https://github.com/Adnan040404/small_projects) | Water quality metrics analysis. |
 
-</details>
