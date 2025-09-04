@@ -14,7 +14,7 @@ Interactive dashboards in **Excel**, **Power BI**, and **Tableau**.
 
 ---
 
-<details>
+
 <summary>Click to Expand Dashboards 🔽</summary>
 
 | # | Project | Tech | Link | Description |
@@ -32,4 +32,4 @@ Interactive dashboards in **Excel**, **Power BI**, and **Tableau**.
 | 11 | Bike Shop Analysis Dashboard | SQL + Power BI | [🔗 Link](https://github.com/Adnan040404/bike-shop-sql-powerbi-analysis) | Sales, profitability & inventory insights. |
 | 12 | Hospital Management SQL Dashboard | SQL + Power BI | [🔗 Link](https://github.com/Adnan040404/hospital-management-sql-project) | Analysis of hospital & patient data. |
 
-</details>
+
