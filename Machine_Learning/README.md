@@ -15,7 +15,7 @@ ML projects with **Regression, Classification & Neural Networks**.
 
 ---
 
-<details>
+
 <summary>Click to Expand ML Projects 🔽</summary>
 
 | # | Project | Tech | Link | Description |
@@ -31,4 +31,4 @@ ML projects with **Regression, Classification & Neural Networks**.
 | 9 | Wine Quality Checker | Python + ML | [🔗 Link](https://github.com/Adnan040404/Quality_wine) | Predict wine quality. |
 | 10 | Breast Cancer Detection | Python + ML | [🔗 Link](https://github.com/Adnan040404/Breast_Cancer_Detection) | Classify breast cancer from medical data. |
 
-</details>
+
