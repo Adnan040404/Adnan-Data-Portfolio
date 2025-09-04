@@ -3,7 +3,7 @@
 Welcome to my GitHub portfolio!  
 Here you can explore my projects in **Dashboards**, **Data Engineering**, **Machine Learning**, **Python Data Analysis**, and **SQL**.  
 
-![GitHub Portfolio](https://media.giphy.com/media/3ohhwytHcusSCXXOUg/giphy.gif)
+![GitHub Portfolio]
 
 ---
 
