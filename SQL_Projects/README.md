@@ -2,12 +2,6 @@
 
 SQL-based projects with analytics & reporting.  
 
-![SQL GIF](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
-
----
-
-
-
 | # | Project | Tech | Link | Description |
 |---|---------|------|------|-------------|
 | 1 | Sale Insights SQL + Tableau | SQL + Tableau | [🔗 Link](https://github.com/Adnan040404/Sale-Insights-Data-Analysis-using-SQL-and-Tableau) | Analyze sales data. |
