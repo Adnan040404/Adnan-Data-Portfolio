@@ -4,7 +4,6 @@ Welcome to my GitHub portfolio!
 Here you can explore my projects in **Dashboards**, **Data Engineering**, **Machine Learning**, **Python Data Analysis**, and **SQL**.  
 
 ![GitHub Portfolio]
-
 ---
 
 ## 🏷️ Tech Stack & Skills
