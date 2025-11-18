@@ -1,0 +1,97 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Weather Report</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 20px; }
+        .header { text-align: center; margin-bottom: 30px; }
+        .plots { display: flex; flex-wrap: wrap; justify-content: center; }
+        .plot { margin: 20px; text-align: center; }
+        table { border-collapse: collapse; width: 100%; margin-top: 20px; }
+        th, td { border: 1px solid #ddd; padding: 12px; text-align: left; }
+        th { background-color: #f2f2f2; }
+        tr:nth-child(even) { background-color: #f9f9f9; }
+        .timestamp { color: #666; margin-top: 20px; }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>Weather Report</h1>
+    </div>
+    
+    <div class="plots">
+        <div class="plot">
+            <img src="temperatures.png" width="500">
+            <p>Temperature Comparison Across Cities</p>
+        </div>
+        <div class="plot">
+            <img src="conditions.png" width="400">
+            <p>Weather Conditions Distribution</p>
+        </div>
+    </div>
+    
+    <h2>Latest Weather Data</h2>
+    <table>
+        <tr>
+            <th>City</th>
+            <th>Temp (°C)</th>
+            <th>Humidity (%)</th>
+            <th>Wind (m/s)</th>
+            <th>Conditions</th>
+            <th>Recorded At</th>
+        </tr>
+        
+        <tr>
+            <td>Berlin</td>
+            <td>19.2</td>
+            <td>75</td>
+            <td>2.7</td>
+            <td>Clouds</td>
+            <td>2025-08-14 08:46</td>
+        </tr>
+        
+        <tr>
+            <td>New York</td>
+            <td>23.5</td>
+            <td>92</td>
+            <td>3.6</td>
+            <td>Clouds</td>
+            <td>2025-08-14 08:46</td>
+        </tr>
+        
+        <tr>
+            <td>Tokyo</td>
+            <td>32.0</td>
+            <td>53</td>
+            <td>3.6</td>
+            <td>Clouds</td>
+            <td>2025-08-14 08:46</td>
+        </tr>
+        
+        <tr>
+            <td>London</td>
+            <td>18.1</td>
+            <td>83</td>
+            <td>4.1</td>
+            <td>Clouds</td>
+            <td>2025-08-14 08:46</td>
+        </tr>
+        
+        <tr>
+            <td>Paris</td>
+            <td>20.9</td>
+            <td>87</td>
+            <td>1.0</td>
+            <td>Clear</td>
+            <td>2025-08-14 08:46</td>
+        </tr>
+        
+    </table>
+    
+    <div class="timestamp">
+        <p>Report generated at: 2025-08-14 09:42:53</p>
+    </div>
+</body>
+</html>
+        

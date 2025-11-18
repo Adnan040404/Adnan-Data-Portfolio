@@ -1,0 +1,56 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Weather Report</title>
+    <style>
+        body { font-family: Arial; margin: 20px; }
+        .header { text-align: center; }
+        .plots { display: flex; }
+        .plot { margin: 10px; }
+        table { border-collapse: collapse; width: 100%; }
+        th, td { border: 1px solid #ddd; padding: 8px; }
+        tr:nth-child(even) { background-color: #f2f2f2; }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>Weather Analysis Report</h1>
+        <p>Generated at {{ generated_at }}</p>
+    </div>
+    
+    <div class="plots">
+        <div class="plot">
+            <img src="temperature_trends.png" width="600">
+        </div>
+        <div class="plot">
+            <img src="conditions_pie.png" width="400">
+        </div>
+    </div>
+    
+    <h2>Latest Data (10 records)</h2>
+    <table>
+        <tr>
+            <th>City</th>
+            <th>Temp (°C)</th>
+            <th>Humidity</th>
+            <th>Conditions</th>
+            <th>Recorded At</th>
+        </tr>
+        {% for row in latest_data %}
+        <tr>
+            <td>{{ row.city }}</td>
+            <td>{{ row.temperature }}</td>
+            <td>{{ row.humidity }}</td>
+            <td>{{ row.conditions }}</td>
+            <td>{{ row.recorded_at }}</td>
+        </tr>
+        {% endfor %}
+    </table>
+    
+    <h2>Summary Statistics</h2>
+    <p>Average Temperature: {{ avg_temp }}°C</p>
+    <p>Average Humidity: {{ avg_humidity }}%</p>
+</body>
+</html>
+            
