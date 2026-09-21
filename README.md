@@ -25,7 +25,7 @@ out so it only shows work I can walk you through in detail.
 |---|---|---|
 | [Sales Performance Dashboard](https://github.com/Adnan040404/sales-powerbi-dashboard) | Two-page Power BI dashboard on a star-schema model with DAX measures. *Files are ready and checked offline; the repo README says what is still being verified.* | Power BI, DAX |
 | [Sales Analysis: SQL, Excel and Tableau](https://github.com/Adnan040404/Sales-Analysis-with-SQL-Excel-and-Tableau) | Revenue, store, product and customer analysis of a sample retail database. | SQL, Excel, Tableau |
-| [Databricks Spark Pipeline with Unity Catalog](https://github.com/Adnan040404/Databricks-End-to-End-Spark-Project-with-Unity-Catalog) | PySpark pipeline on Databricks built with reusable classes and a factory pattern. Needs a Databricks workspace to run. | PySpark, Databricks |
+| [PySpark Pizza Analytics](https://github.com/Adnan040404/Databricks-End-to-End-Spark-Project-with-Unity-Catalog) | Seven business questions in PySpark with data-quality checks and results verified against pandas. Runs locally, and as Databricks notebooks. | PySpark, Databricks, pytest |
 
 ## More
 
