@@ -18,6 +18,7 @@ out so it only shows work I can walk you through in detail.
 | [Weather Data ETL Pipeline](https://github.com/Adnan040404/weather-data-etl-pipeline) | Pulls weather from a REST API into SQL with retries, validation and safe re-runs. Reports in HTML and Excel. Runs with no key or server. | Python, SQLite, pytest |
 | [Dropship Reconciliation Engine](https://github.com/Adnan040404/dropship-reconciliation-engine) | Invoice-to-payment reconciliation written twice, in pandas and in SQL, with identical results. | Python, SQL |
 | [Payout Reconciliation Report](https://github.com/Adnan040404/payout-reconciliation-excel-report) | A formula-driven Excel report showing what was paid, what is missing and what doesn't add up. | Excel, Python |
+| [AR Aging & Collections Analyzer](https://github.com/Adnan040404/ar-aging-collections-analyzer) | Ages open invoices into buckets, nets credit memos and overpayments against the oldest debt first, and computes DSO. The Excel aging summary is entirely live formulas. | Python, SQL, Excel |
 
 ## Reporting and analysis
 
