@@ -9,7 +9,7 @@ All data is generated or from public sample datasets. None of it comes from a re
 client or employer. I can explain every project line by line, including the bugs
 I found in my own first versions. Several READMEs describe them.
 
-## Professional: closest to my day job
+## Advanced: closest to my day job
 
 Built around the problems I solve at work (reconciliation, aging, messy exports).
 
@@ -23,11 +23,11 @@ Built around the problems I solve at work (reconciliation, aging, messy exports)
 
 | # | Project | What it does | Tools |
 |---|---|---|---|
-| 4 | [Weather Data ETL Pipeline](https://github.com/Adnan040404/weather-data-etl-pipeline) | REST API to SQL with retries, validation and safe re-runs. Runs with no key or server. 19 tests. | Python, SQLite |
-| 5 | [PySpark Pizza Analytics](https://github.com/Adnan040404/Databricks-End-to-End-Spark-Project-with-Unity-Catalog) | Seven business questions in PySpark, every result checked against pandas. Runs locally. 16 tests. | PySpark, Databricks |
-| 6 | [Payout Reconciliation Report](https://github.com/Adnan040404/payout-reconciliation-excel-report) | A formula-driven Excel report of what was paid, what is missing and what doesn't add up. 7 tests. | Excel, Python |
-| 7 | [Sales Analysis: SQL, Excel and Tableau](https://github.com/Adnan040404/Sales-Analysis-with-SQL-Excel-and-Tableau) | Analysis of a sample retail database, including a wrong first conclusion I caught and corrected. | SQL, Excel, Tableau |
-| 8 | [Bike Shop Sales & Profitability](https://github.com/Adnan040404/bike-shop-sql-powerbi-analysis) | SQL and Power BI analysis. Found and fixed a profit formula that gave an impossible 99.7% margin. | SQL, Power BI |
+| 4 | [PySpark Pizza Analytics](https://github.com/Adnan040404/Databricks-End-to-End-Spark-Project-with-Unity-Catalog) | Seven business questions in PySpark, every result checked against pandas. Runs locally. 16 tests. | PySpark, Databricks |
+| 5 | [Sales Analysis: SQL, Excel and Tableau](https://github.com/Adnan040404/Sales-Analysis-with-SQL-Excel-and-Tableau) | Analysis of a sample retail database, including a wrong first conclusion I caught and corrected. | SQL, Excel, Tableau |
+| 6 | [Bike Shop Sales & Profitability](https://github.com/Adnan040404/bike-shop-sql-powerbi-analysis) | SQL and Power BI analysis. Found and fixed a profit formula that gave an impossible 99.7% margin. | SQL, Power BI |
+| 7 | [Weather Data ETL Pipeline](https://github.com/Adnan040404/weather-data-etl-pipeline) | REST API to SQL with retries, validation and safe re-runs. Runs with no key or server. 19 tests. | Python, SQLite |
+| 8 | [Payout Reconciliation Report](https://github.com/Adnan040404/payout-reconciliation-excel-report) | A formula-driven Excel report of what was paid, what is missing and what doesn't add up. 7 tests. | Excel, Python |
 | 9 | [Sales Performance Dashboard](https://github.com/Adnan040404/sales-powerbi-dashboard) | Two-page Power BI dashboard on a star-schema model. *Checked offline; the repo README says what is still being verified.* | Power BI, DAX |
 
 ## Beginner practice: where I practised the basics
