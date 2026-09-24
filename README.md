@@ -18,12 +18,12 @@ I found in my own first versions. Several READMEs describe them.
 | 3 | [Sales Data ETL Pipeline](https://github.com/Adnan040404/sales-data-etl-pipeline) | Merges messy exports from three systems into a SQL database and Excel report. Every input row is accounted for. 14 tests. | Python, SQL, Excel |
 | 4 | [PySpark Pizza Analytics](https://github.com/Adnan040404/Databricks-End-to-End-Spark-Project-with-Unity-Catalog) | Seven business questions in PySpark, every result checked against pandas. Runs locally. 16 tests. | PySpark, Databricks |
 | 5 | [Sales Analysis: SQL, Excel and Tableau](https://github.com/Adnan040404/Sales-Analysis-with-SQL-Excel-and-Tableau) | Analysis of a sample retail database, including a wrong first conclusion I caught and corrected. | SQL, Excel, Tableau |
-| 6 | [Bike Shop Sales & Profitability](https://github.com/Adnan040404/bike-shop-sql-powerbi-analysis) | SQL and Power BI analysis. Found and fixed a profit formula that gave an impossible 99.7% margin. | SQL, Power BI |
+| 6 | [Payout Reconciliation Report](https://github.com/Adnan040404/payout-reconciliation-excel-report) | A formula-driven Excel report of what was paid, what is missing and what doesn't add up. 7 tests. | Excel, Python |
 | 7 | [Weather Data ETL Pipeline](https://github.com/Adnan040404/weather-data-etl-pipeline) | REST API to SQL with retries, validation and safe re-runs. Runs with no key or server. 19 tests. | Python, SQLite |
-| 8 | [Payout Reconciliation Report](https://github.com/Adnan040404/payout-reconciliation-excel-report) | A formula-driven Excel report of what was paid, what is missing and what doesn't add up. 7 tests. | Excel, Python |
-| 9 | [Sales Performance Dashboard](https://github.com/Adnan040404/sales-powerbi-dashboard) | Two-page Power BI dashboard on a star-schema model. *Checked offline; the repo README says what is still being verified.* | Power BI, DAX |
+| 8 | [Bike Shop Sales & Profitability](https://github.com/Adnan040404/bike-shop-sql-powerbi-analysis) | SQL and Power BI analysis. Found and fixed a profit formula that gave an impossible 99.7% margin. | SQL, Power BI |
+| 9 | [HR Attrition Dashboard](https://github.com/Adnan040404/HR_Employe_Analytics_dashboard) | Excel dashboard on attrition. Found that three pivots counted headcount instead of leavers, and that the corrected rates reverse the department conclusion. 11 tests. | Excel, Python |
 | 10 | [Hospital Database: SQL Practice](https://github.com/Adnan040404/hospital-management-sql-project) | 33 practice queries on a small hospital database, from filters to window functions. Fixed a script that didn't run and a query that gave the wrong answer. 17 tests. | SQL, Python |
-| 11 | [HR Attrition Dashboard](https://github.com/Adnan040404/HR_Employe_Analytics_dashboard) | Excel dashboard on attrition. Found that three pivots counted headcount instead of leavers, and that the corrected rates reverse the department conclusion. 11 tests. | Excel, Python |
+| 11 | [Sales Performance Dashboard](https://github.com/Adnan040404/sales-powerbi-dashboard) | Two-page Power BI dashboard on a star-schema model. *Checked offline; the repo README says what is still being verified.* | Power BI, DAX |
 
 ## More
 
