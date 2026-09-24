@@ -6,9 +6,8 @@ suggest reading them**, each marked with its level, so you know what to expect.
 Every one has its own repo with a README, a way to run it, and tests.
 
 All data is generated or from public sample datasets. None of it comes from a real
-client or employer. I use AI tools while I work, and I can explain every project
-line by line, including the bugs I found in my own first versions. Several READMEs
-describe them.
+client or employer. I can explain every project line by line, including the bugs
+I found in my own first versions. Several READMEs describe them.
 
 ## Professional: closest to my day job
 
